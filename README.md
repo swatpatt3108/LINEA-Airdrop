@@ -9,3 +9,5 @@ Lend/Borrow on Zerolend
 Perform DEX swaps such as Woo.Fi, Odos.xyz, defillama
 
 Activate Surge code for Linea Surge quest
+
+Claim and stake ZERO tokens from ZeroLend on Linea Network
